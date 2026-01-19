@@ -56,12 +56,12 @@ O algoritmo foi configurado com os seguintes parâmetros finais:
 
 #### Histórico do Learning Rate
 *O algoritmo convergiu rapidamente para valores próximos a 0.004 e se estabilizou.*
-![Gráfico de Learning Rate](./assets/historico_lr_92%_5epoch.png)
+![Gráfico de Learning Rate](./assets/historico_lr_92_5epoch.png)
 *(Certifique-se de que a imagem está no repositório com esse nome)*
 
 #### Histórico de Acurácia
 *Houve um salto de desempenho na iteração 5, atingindo o pico de 92.43%.*
-![Gráfico de Acurácia](./assets/historico_acuracia_92%_5epoch.png)
+![Gráfico de Acurácia](./assets/historico_acuracia_92_5epoch.png)
 *(Certifique-se de que a imagem está no repositório com esse nome)*
 
 ---
