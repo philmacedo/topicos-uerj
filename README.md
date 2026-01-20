@@ -89,3 +89,8 @@ for p in particulas:
     # Clip para manter dentro dos limites definidos
     for i, (low, high) in enumerate(limites_pos):
         p['pos'][i] = np.clip(p['pos'][i], low, high)
+```
+
+## 👨‍💻 Autor
+
+**Philipy Macêdo** -> Engenharia de Sistemas e Computação - UERJ
